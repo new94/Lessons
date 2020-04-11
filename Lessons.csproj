@@ -61,8 +61,12 @@
     <Compile Include="Actions.cs" />
     <Compile Include="Car.cs" />
     <Compile Include="CarComparer.cs" />
+    <Compile Include="Cat.cs" />
+    <Compile Include="Dog.cs" />
     <Compile Include="Lessons1.cs" />
     <Compile Include="Lessons2.cs" />
+    <Compile Include="Lessons3.cs" />
+    <Compile Include="MyCatCollection.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

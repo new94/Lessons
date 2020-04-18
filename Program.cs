@@ -14,7 +14,7 @@ namespace Lessons
     {
         static void Main(string[] args)
         {
-            Lessons3.begin();
+            Lessons4.begin();
             Console.ReadLine();
         }
 
